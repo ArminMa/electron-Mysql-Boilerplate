@@ -79,7 +79,7 @@ export default (name, options) => {
     Object.assign({
       title: "Lunda",
       icon: "app/ico/icon.icns",
-      icon: "app/ico/icon.ico", // TODO the windows Installer must at least be 245x245 ico
+      icon: "app/ico/icon.ico",
       icon: "app/ico/icon.png"}, options, state)
 
   );
